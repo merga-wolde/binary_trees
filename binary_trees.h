@@ -8,9 +8,7 @@
  * and function prototypes required for the binary_trees project
  * in the ALX 12 month software engineering program.
  *
- * Author: Gizachew Bayness (Elec Crazy)
- *
- * Date Created: Sep 20, 2022
+ * 
  *
  */
 
